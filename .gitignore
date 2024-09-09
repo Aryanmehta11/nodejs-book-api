@@ -1,0 +1,22 @@
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+
+# Logs
+logs/
+*.log
+
+# Dependency directories
+jspm_packages/
+
+# Compiled output
+dist/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# npm package-lock
+package-lock.json
